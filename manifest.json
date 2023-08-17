@@ -1,0 +1,11 @@
+{
+    "name": "Upcoming Montreal Concerts",
+    "version": "1.0.0",
+    "description": "This is an extension to look at concerts in Montreal",
+    "manifest_version": 3,
+    "author": "Mohammed Alam",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Upcoming Montreal Concerts"
+    }
+}
